@@ -7,7 +7,7 @@
 # Scene/timecode API changed in 0.7: Docker integration must validate behavior.
 scenedetect==0.7.2
 ultralytics==8.4.33
-torch==2.11.0
+torch==2.13.0
 torchvision==0.26.0
 tqdm==4.67.3
 # Floor raised to 2026.6.9: that release fixes CVE-2026-50023 (dangerous
